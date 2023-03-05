@@ -1,2 +1,2 @@
 # PPJ
-Schoolwork from various courses.
+Schoolwork from the Programming Language Translation course.
